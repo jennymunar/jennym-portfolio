@@ -1,0 +1,178 @@
+body {
+    background-color: #fff4f1;
+    
+}
+
+.header {
+    background-color:  rgb(229, 175, 158);
+    color: whitesmoke;
+    font-family: fantasy, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.header h1 {
+    display: inline;
+    font-size: 40px;
+    padding-left: 20px;
+    padding-top: 20px;
+    border: 5px;
+    margin-top: 10px;
+}
+
+.header li {
+    display: inline;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.header li:hover {
+    text-decoration: underline;
+} 
+
+.header ul {
+    text-align: right;
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.welcome{
+    align-items: center;
+}
+
+h2 {
+    text-align: center;
+    font-family: fantasy, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #b65149;
+    font-size: 50px;
+    margin-bottom: 2px;
+    text-decoration: underline;
+}
+
+.welcome img {
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #7e8e65;
+}
+
+.welcome p {
+    color: #b65149;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.about{
+    background-color: #7e8e65;
+    font-family: fantasy, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: whitesmoke;
+    height: 300px;
+}
+
+.about h1 {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+.about img {
+    display: block;
+    width: 200px;
+    height: 150px;
+    float: right;
+    position: relative;
+    padding-right: 50px;
+}
+
+.about ul {
+    text-align: left;
+}
+
+.projects {
+    font-family: fantasy, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #cb8655;
+}
+
+.projects h1{
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+.horiseon {
+    box-shadow: 0 4px 8px;
+
+}
+
+.horiseon img {
+    width: 600px;
+    height: 400px;
+    opacity:1.0;
+    filter:alpha(opacity=40); 
+    margin-left: 80px;
+    border: 10px solid #cb8655;
+   
+}
+
+.horiseon img:hover {
+    opacity:0.6;
+    filter:alpha(opacity=100); 
+}
+
+.mini-project img {
+    width: 300px;
+    height: 300px;
+    margin-left: 60px;
+    border: 10px solid #cb8655;
+    opacity: 1.0;
+}
+
+.mini-project img:hover {
+    filter: grayscale(100%);
+    filter: gray;
+  }
+
+.atxbubbles img {
+    width: 300px;
+    height: 300px;
+    margin-left: 60px;
+    border: 10px solid #cb8655;
+    opacity: 1.0;
+}
+
+.atxbubbles img:hover {
+    opacity:0.6;
+    filter:alpha(opacity=100); 
+}
+  
+
+.contact-me {
+    color: #b65149;
+    text-align: center;
+    font-family: fantasy, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.contact-me h2 {
+    font-size: 20px;
+    margin-bottom: 2px;
+    text-decoration: underline;
+}
+
+.contact-me ul{
+    display: inline;
+    margin-right: 10px;     
+    margin-top: 0;
+    line-height: 1;
+}
+
+.footer {
+    font-size: 10px;
+    text-align: center;
+    color: black;
+    font-family: fantasy, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
