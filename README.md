@@ -7,9 +7,8 @@
   2. Mini project - I created this project from 0 but having a mockup as a started element.
   3. ATX Bubbles - I created this project from 0.
 
-## Preview of the webpage
-
 ## Link
+Landed link (https://jennymunar.github.io/jennym-portfolio/)
 
 ## Sources
 https://www.w3schools.com/howto
