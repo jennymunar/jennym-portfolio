@@ -1,4 +1,4 @@
-# My Portafolio
+# My Portfolio
 
 ## Description 
 - The file structure for this portafolio is HTML and CSS
